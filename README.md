@@ -20,10 +20,10 @@ crabviz is a static code analysis tool that generates interactive call graph.
 
 1. Start the container: `docker run --rm -it -v ~/stripe/gocode/bigfoot/:/gosrc/ crabviz bash`
 2. In the container
-  1. Test if the binary is running fine: `crabviz`
-  2. Test if the volume is loaded correctly: `ls /gosrc/`
-  3. 
-
+    1. Test if the binary is running fine: `crabviz`
+    2. Test if the volume is loaded correctly: `ls /gosrc/`
+  
+  
 ## Features
 
 * show types and functions in files
