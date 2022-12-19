@@ -11,6 +11,14 @@ crabviz is a static code analysis tool that generates interactive call graph.
 * Rust
 * Go
 
+## Setup
+
+`git clone <this_repo`
+
+## Run
+
+
+
 ## Features
 
 * show types and functions in files
